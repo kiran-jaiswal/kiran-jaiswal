@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Kiran Jaiswal</h1>
-<h3 align="center">🚀 SIH 2024 Finalist | 🌱 Sustainability Advocate | 💻 Full Stack & AI Enthusiast</h3>
+<h3 align="center">🚀 Achieved Top 50 rank in Smart India Hackathon 2024 | 👗 Cleared Round 1 of 🧵 Myntra HackerRamp Hackathon | 💻 Full Stack & AI Enthusiast</h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -11,12 +11,12 @@
 
 ### 🧑‍💼 About Me
 
-- 🎓 Final year at **MNNIT Allahabad**
+- 🎓 Final year at **Lovely Professional University**
 - 🌱 Learning **Full Stack Development** (React + Spring Boot)
 - 📡 Building a **Drone-based Crop Disease Detection System** (Patent Project)
 - ♻️ Developing a solution for **Smart Resource Conservation** (SIH 2024)
 - ✨ Passionate about **Open Source, AI, and Green Tech**
-- 📫 Reach me: `your.email@example.com`
+- 📫 Reach me: `kiranjaiswalkj2002@gmail.com`
 
 ---
 
