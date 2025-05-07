@@ -16,7 +16,9 @@
 - 📡 Building a **Drone-based Crop Disease Detection System** (Patent Project)
 - ♻️ Developing a solution for **Smart Resource Conservation** (SIH 2024)
 - ✨ Passionate about **Open Source, AI, and Green Tech**
-- 📫 Reach me: `kiranjaiswalkj2002@gmail.com`
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
