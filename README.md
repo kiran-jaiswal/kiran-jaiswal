@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor+👨‍💻;AI+%2B+Web+Dev+Learner;Making+Tech+Sustainable🌿;Let's+Innovate+Together!🚀&center=true&width=500&height=45&color=00F9FF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Top+50+SIH+2024+Finalist🏆;Myntra+HackerRamp+Cleared+Round+1👗;Building+Sustainable+Tech🌿;Let’s+Innovate+Together!🚀&center=true&width=500&height=45&color=00F9FF&vCenter=true&size=22" />
 </p>
 
 ---
