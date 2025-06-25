@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiran Jaiswal</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Contributor</h3>
 
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/Zt7inWQf4luI217bul/giphy.gif">
+<img align="right" alt="Girl Coding" width="400" src="https://i.giphy.com/media/Zt7inWQf4luI217bul/giphy.gif">
+
 
 ---
 
