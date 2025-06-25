@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Jaiswal</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Contributor</h3>
 
-<img align="right" alt="Female Developer" width="400" src="https://raw.githubusercontent.com/kiran-jaiswal/kiran-jaiswal/main/assets/female-dev.gif">
+<img align="right" alt="Female Web Developer" width="400" src="https://i.pinimg.com/originals/68/0f/e6/680fe61f96f6e63a46a138a21696c4c2.gif">
 
 
 
