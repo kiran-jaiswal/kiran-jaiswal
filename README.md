@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Jaiswal</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Open Source Contributor</h3>
 
-<img align="right" alt="Girl with Idea" width="400" src="https://raw.githubusercontent.com/your-username/repo/branch/girl_idea.gif">
+<img align="right" alt="Female Developer" width="400" src="https://raw.githubusercontent.com/kiran-jaiswal/kiran-jaiswal/main/assets/female-dev.gif">
 
 
 
