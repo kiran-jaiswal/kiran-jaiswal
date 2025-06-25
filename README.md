@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Jaiswal</h1>
 <h3 align="center">B.Tech CSE Student | Full Stack Developer | Sustainability Enthusiast</h3>
+<img align="right" alt="Girl Coding" width="400" src="https://user-images.githubusercontent.com/134687040/273588178-79a7d269-2fd9-4c58-b172-8768b9f6a171.gif">
 
-<img align="right" alt="Female Web Developer" width="400" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 
 
