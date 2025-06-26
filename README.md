@@ -42,13 +42,13 @@
 - 🧠 GGSOC 2024 Contributor + Campus Ambassador
 - 🥇 Tata Crucible Campus Quiz - Prelims Cleared
 - 🛡️ cleared Round 1 MnytraHackerRamp WeFOrShe 2024
-- 
+  
 
 ---
 
 ### 🏆 **LeetCode Stats:**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kiranjaiswall?theme=dark" alt="LeetCode Profile" />
+  <img src="https://leetcard.jacoblin.cool/kiranjaiswall?theme=dark" alt="LeetCode Profile" Width=500px />
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswall&theme=dark&animated=true" alt="LeetCode Badge" />
 </p>
 
