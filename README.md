@@ -37,14 +37,21 @@
 
 ---
 
+### 🏅 Achievements
+- 👨‍💻 **Smart India Hackathon 2024** Under Top 10
+- 🧠 GGSOC 2024 Contributor + Campus Ambassador
+- 🥇 Tata Crucible Campus Quiz - Prelims Cleared
+- 🛡️ cleared Round 1 MnytraHackerRamp WeFOrShe 2024
+- 
+
+---
+
 ### 🏆 **LeetCode Stats:**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kiranjaiswall?theme=dark" alt="LeetCode Profile" />
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswall&theme=dark&animated=true" alt="LeetCode Badge" />
 </p>
 
----
-![trophy](https://github-profile-trophy.vercel.app/?username=kiran-jaiswal&theme=radical)
----
+
 
 ⭐ *Thanks for visiting my profile! Let’s connect and collaborate on cool ideas.*  
