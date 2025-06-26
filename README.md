@@ -43,5 +43,8 @@
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswall&theme=dark&animated=true" alt="LeetCode Badge" />
 </p>
 
+---
+![trophy](https://github-profile-trophy.vercel.app/?username=kiran-jaiswal&theme=radical)
+---
 
 ⭐ *Thanks for visiting my profile! Let’s connect and collaborate on cool ideas.*  
