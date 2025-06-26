@@ -33,5 +33,34 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=f
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
+---
+
+### 📊 **GitHub Stats:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiran-jaiswal&show_icons=true&theme=tokyonight" alt="Kiran's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-jaiswal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 **LeetCode Stats:**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kiranjaiswal744?theme=dark" alt="LeetCode Profile" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswal744&theme=dark&animated=true" alt="LeetCode Badge" />
+</p>
+
+---
+
+### 🚀 **Current Focus Areas:**
+- 🔬 Real-time Web Apps with MERN + AI
+- 🧠 Mental Health & Sustainability Platforms
+- ⚙️ Backend Engineering with Spring Boot and Node.js
+- ✨ Building Scalable APIs & Compilers
+
+---
+
+⭐ *Thanks for visiting my profile! Let’s connect and collaborate on cool ideas.*  
