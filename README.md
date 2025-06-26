@@ -39,8 +39,8 @@
 
 ### 🏆 **LeetCode Stats:**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kiranjaiswal744?theme=dark" alt="LeetCode Profile" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswal744&theme=dark&animated=true" alt="LeetCode Badge" />
+  <img src="https://leetcard.jacoblin.cool/kiranjaiswall?theme=dark" alt="LeetCode Profile" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=kiranjaiswall&theme=dark&animated=true" alt="LeetCode Badge" />
 </p>
 
 
